@@ -1,4 +1,5 @@
-### 안녕하세요! 👋
+## 인사 말  😉
+##### 안녕하세요! 
 ##### 안드로이드 개발자를 희망하고 있는 고등학생입니다! 🏫
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taron8530)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,7 +12,5 @@
         Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=li-yo&theme=default)](https://taron-dev.tistory.com/21)
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=li-yo&theme=default)](https://taron-dev.tistory.com/5)
+api?name=li-yo&theme=default)](https://taron-dev.tistory.com/)
 </div><br>
