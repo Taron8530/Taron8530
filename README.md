@@ -68,7 +68,7 @@
     </div>
     <p><strong>개발 도구</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Android Studio-#3DDC84?style=flat-square&logo=android studio&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Android Studio-#3DDC84?style=flat-square&logo=androidstudio&logoColor=white"> 
         <img src="https://img.shields.io/badge/Visual Studio Code#007ACC?style=flat-square&logo=visual studio code&logoColor=white">
     </div><br>
 </div>
