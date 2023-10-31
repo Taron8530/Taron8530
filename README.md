@@ -34,10 +34,9 @@
     
 ## 🔨 Skill's 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <p><strong>MainLengeuge</strong></p>
+    <p><strong>MainLenguage</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     </div
     <!-- Backend -->
@@ -56,7 +55,7 @@
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-        <img src="https://img.shields.io/badge/ubuntu-#E95420?style=for-the-badge&logo=spring boot&logoColor=white"> 
+        <img src="https://img.shields.io/badge/ubuntu-#E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
     </div>
     <!-- Frontend -->
     <p><strong>ETC</strong></p>
@@ -69,8 +68,8 @@
     </div>
     <p><strong>개발 도구</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Android Studio-#3DDC84?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/visualstudiocode-#007ACC?style=flat-square&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Android Studio-#3DDC84?style=flat-square&logo=android studio&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Visual Studio Code#007ACC?style=flat-square&logo=visual studio code&logoColor=white">
     </div><br>
 </div>
 
