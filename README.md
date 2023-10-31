@@ -1,5 +1,5 @@
 ### 안녕하세요! 👋
-# 안드로이드 개발자를 희망하고 있는 고등학생입니다! 🏫
+##### 안드로이드 개발자를 희망하고 있는 고등학생입니다! 🏫
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taron8530)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Taron8530/Taron8530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
