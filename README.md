@@ -1,6 +1,4 @@
-## 인사 말  😉
-##### 안녕하세요! 안드로이드 개발자를 희망하고 있는 고등학생입니다! 🏫
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Taron's+GitHub!👋)](https://git.io/typing-svg)
  
 <div align="left">
@@ -68,7 +66,7 @@
     </div>
     <p><strong>개발 도구</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Android Studio-#3DDC84?style=flat-square&logo=androidstudio&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Android studio-#3DDC84?style=flat-square&logo=androidstudio&logoColor=white"> 
         <img src="https://img.shields.io/badge/Visual Studio Code#007ACC?style=flat-square&logo=visual studio code&logoColor=white">
     </div><br>
 </div>
