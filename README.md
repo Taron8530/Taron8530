@@ -6,14 +6,12 @@
 -------
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaron8530&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Taron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taron8530&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
  
 <br>
 
 ## 💻 기술 공부 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://li-yo.tistory.com">
+    <a href="https://taron-dev.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
     
@@ -53,7 +51,8 @@
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/apache-F8DC75?style=for-the-badge&logo=apache&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-        <img src="https://img.shields.io/badge/ubuntu-#E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Ubuntu-#E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> 
+        <img src="https://img.shields.io/badge/ubuntu-#E95420?style=flat-square&logo=ubuntu&logoColor=white">
     </div>
     <!-- Frontend -->
     <p><strong>ETC</strong></p>
