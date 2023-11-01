@@ -51,7 +51,7 @@
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+        <img src="https://img.shields.io/badge/apache-F8DC75?style=for-the-badge&logo=apache&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
         <img src="https://img.shields.io/badge/ubuntu-#E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
     </div>
@@ -66,8 +66,8 @@
     </div>
     <p><strong>개발 도구</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Android studio-#3DDC84?style=flat-square&logo=androidstudio&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Visual Studio Code#007ACC?style=flat-square&logo=visual studio code&logoColor=white">
+        <img src="https://img.shields.io/badge/androidstudio-#3DDC84?style=flat-square&logo=androidstudio&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Visual Studio Code-#007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
     </div><br>
 </div>
 
