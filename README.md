@@ -40,7 +40,7 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/ubuntu-#E95420?style=for-the-badge&logo=spring boot&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Ubuntu-#E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
